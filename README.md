@@ -10,9 +10,7 @@ main programを起動する
 -Custom reporters  
 -Local Storage @Documentation  
 -List Tools @LilyMakesThings  
--Variable and list @qxsck  
-  
-・Special Thanks  
+-Variable and list @qxsck   
 -Temporary Variables @LilyMakesThings,@Mio   
 -JSON @Skyhigh173,@Mio  
 -HTTP @RedMan13  
