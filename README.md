@@ -12,7 +12,7 @@ main programを起動する
 -List Tools @LilyMakesThings  
 -Variable and list @qxsck  
   
-・Many Thanks Extension  
+・Special Thanks
 -Temporary Variables @LilyMakesThings,@Mio   
 -JSON @Skyhigh173,@Mio  
 -HTTP @RedMan13  
