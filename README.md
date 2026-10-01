@@ -4,7 +4,7 @@ main programを起動する
 
 credit(on scratch)  
 -Turbowarp Desktop  @GarboMuffin  
--Cam controll(visuallyer) @-fenyx  
+-Cam control(Visualizer) @-fenyx  
 
 使用拡張機能  
 -Custom reporters  
