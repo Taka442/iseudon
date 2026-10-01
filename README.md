@@ -1,12 +1,12 @@
-開き方  
+・開き方  
 turbowarp Desktop(turbowarp.orgでも可)で二つのプログラムを開く  
 main programを起動する  
 
-credit(on scratch)  
+・credit(on scratch)  
 -Turbowarp Desktop  @GarboMuffin  
 -Cam control(Visualizer) @-fenyx  
 
-使用拡張機能  
+・使用拡張機能  
 -Custom reporters  
 -Local Storage @Documentation  
 -List Tools @LilyMakesThings  
