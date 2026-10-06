@@ -1,5 +1,5 @@
 ・開き方  
-turbowarp Desktop(turbowarp.orgでも可)で二つのプログラムを開く  
+turbowarp Desktop(turbowarp.orgでも可)で~~二つのプログラムを開く~~ 10/6 data.sb3不要のため削除  
 main programを起動する  
 
 ・credit(on scratch)  
